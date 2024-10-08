@@ -1,0 +1,20 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "stop": "^C"
+  },
+  "keywords": [
+    "node",
+    "first"
+  ],
+  "author": "Pushkar Niraula",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
